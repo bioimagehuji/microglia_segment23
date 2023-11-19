@@ -1,4 +1,4 @@
-# Microglia Quantification
+# Microglia Quantification v9.2
 #
 # This ImageJ script measures microglia in images. 
 #
